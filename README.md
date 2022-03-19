@@ -1,6 +1,5 @@
 # untrustworthy-reviews-detection-via-transformers
-For Cross-Domain
-Transformer-Based Models for Untrustworthy Reviews Detection
+Transformer-Based Models for Untrustworthy Reviews Detection for the [dataset](https://github.com/kazaros91/untrustworthy-reviews-detection-via-transformers)
 
 ## Cross-Domain Settings 
 ### Cross-Domain Restaurant
